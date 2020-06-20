@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jun 20 12:32:52 2020
-
-@author: Dell
+For creating graph
 """
 
 
