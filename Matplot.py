@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-For creating graph
+For creating graph on python
 """
 
 
