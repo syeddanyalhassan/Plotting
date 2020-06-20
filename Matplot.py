@@ -3,7 +3,7 @@
 For creating graph on python
 
 Make sure to pre intall scipy and pylab packages on your machine before using
-this code
+this code.
 """
 
 
